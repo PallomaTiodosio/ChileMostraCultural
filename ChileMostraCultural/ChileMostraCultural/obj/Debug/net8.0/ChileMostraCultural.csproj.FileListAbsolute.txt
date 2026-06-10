@@ -1,0 +1,9 @@
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.csproj.AssemblyReference.cache
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.AssemblyInfoInputs.cache
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.AssemblyInfo.cs
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.csproj.CoreCompileInputs.cache
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.RazorAssemblyInfo.cache
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.RazorAssemblyInfo.cs
+C:\Users\3mtec\Desktop\Chile\ChileMostraCultural\ChileMostraCultural\ChileMostraCultural\obj\Debug\net8.0\ChileMostraCultural.sourcelink.json

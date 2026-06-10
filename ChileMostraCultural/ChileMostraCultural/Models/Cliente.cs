@@ -2,7 +2,7 @@
 
 namespace ChileMostraCultural.Models
 {
-    public class Login
+    public class Cliente
     {
         [Display(Name = "Código", Description = "Código.")]
         public int Id { get; set; }
@@ -13,7 +13,7 @@ namespace ChileMostraCultural.Models
 
         [Display(Name = "Nascimento")]
         [Required(ErrorMessage = "A data é obrigatório")]
-        public DateTime Data { get; set; }
+        public DateTime Nascimento { get; set; }
 
         [Display(Name = "Telefone")]
         [Required(ErrorMessage = "O telefone é obrigatório.")]

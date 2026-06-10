@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbQZWRY04G8=",
+  "dgSpecHash": "HCFCZCEDHM4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural.csproj",
+  "projectFilePath": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3mtec\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\3mtec\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChileMostraCultural")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cef68171c787f680d662345de61df21ec355fb97")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChileMostraCultural")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChileMostraCultural")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
