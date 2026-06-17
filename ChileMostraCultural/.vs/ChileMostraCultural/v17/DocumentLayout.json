@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\",
+  "WorkspaceRootPath": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\constants\\trabalhadortipoconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\constants\\trabalhadortipoconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\constants\\situacaoconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\constants\\situacaoconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chilemostracultural\\chilemostracultural\\chilemostracultural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,49 +31,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Repository\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Repository\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Repository\\ClienteRepository.cs",
-              "RelativeToolTip": "ChileMostraCultural\\Repository\\ClienteRepository.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Title": "TrabalhadorTipoConstant.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\Constants\\TrabalhadorTipoConstant.cs",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\Constants\\TrabalhadorTipoConstant.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\Constants\\TrabalhadorTipoConstant.cs",
+              "RelativeToolTip": "ChileMostraCultural\\Models\\Constants\\TrabalhadorTipoConstant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T14:35:49.258Z",
+              "WhenOpened": "2026-06-17T15:05:57.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Repository\\Contract\\IClienteRepository.cs",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Repository\\Contract\\IClienteRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Repository\\Contract\\IClienteRepository.cs",
-              "RelativeToolTip": "ChileMostraCultural\\Repository\\Contract\\IClienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Trabalhador.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\Trabalhador.cs",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\Trabalhador.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\Trabalhador.cs",
+              "RelativeToolTip": "ChileMostraCultural\\Models\\Trabalhador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T14:01:16.805Z",
+              "WhenOpened": "2026-06-17T15:04:36.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SituacaoConstant.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\Constants\\SituacaoConstant.cs",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\Constants\\SituacaoConstant.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\Constants\\SituacaoConstant.cs",
-              "RelativeToolTip": "ChileMostraCultural\\Models\\Constants\\SituacaoConstant.cs",
-              "ViewState": "AgIAAAAAAAAAiHcRYBC6vwYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T13:57:42.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\Login.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Controllers\\Login.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\Login.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\Login.cs",
               "RelativeToolTip": "ChileMostraCultural\\Controllers\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,29 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\Cliente.cs",
-              "RelativeToolTip": "ChileMostraCultural\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T11:59:53.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\appsettings.json",
               "RelativeDocumentMoniker": "ChileMostraCultural\\appsettings.json",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\appsettings.json",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\appsettings.json",
               "RelativeToolTip": "ChileMostraCultural\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-10T11:55:27.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T11:55:27.191Z"
             }
           ]
         }
