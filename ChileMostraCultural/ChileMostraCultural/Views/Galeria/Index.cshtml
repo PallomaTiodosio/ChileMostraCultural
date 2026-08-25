@@ -1,0 +1,34 @@
+@model List<ItemGaleria>
+@{
+    ViewData["Title"] = "Galeria";
+}
+
+<section class="galeria-page">
+    <div class="galeria-header">
+        <h1>Galeria <span>do Chile</span></h1>
+        <nav class="galeria-tabs">
+            <button class="tab-btn active" data-filtro="todos">Todos</button>
+            <button class="tab-btn" data-filtro="natureza">Natureza</button>
+            <button class="tab-btn" data-filtro="cidades">Cidades</button>
+            <button class="tab-btn" data-filtro="cultura">Cultura</button>
+        </nav>
+    </div>
+
+    <div class="galeria-grid" id="galeriaGrid">
+        @foreach (var item in Model)
+        {
+            <div class="galeria-item">
+                <div class="galeria-placeholder"></div>
+                <span class="galeria-legenda">@item.Legenda</span>
+            </div>
+        }
+    </div>
+
+    <div class="galeria-carregar">
+        <button class="btn btn-outline" id="btnCarregarMais">Ver mais</button>
+    </div>
+
+    <div class="galeria-destaque">
+        <div class="galeria-destaque-placeholder"></div>
+    </div>
+</section>

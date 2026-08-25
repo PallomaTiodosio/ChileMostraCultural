@@ -1,0 +1,63 @@
+@model List<EventoHistorico>
+@{
+    ViewData["Title"] = "História do Chile";
+}
+
+<section class="historia-page">
+    <div class="historia-header">
+        <h1>HISTÓRIA DO <span>CHILE</span></h1>
+        <p>Conheça os acontecimentos que marcaram o país ao longo do tempo</p>
+    </div>
+
+    <div class="timeline" id="timeline">
+        @foreach (var evento in Model)
+        {
+            <button class="timeline-ponto" data-ano="@evento.Ano">
+                <span class="timeline-icone"></span>
+                <span class="timeline-ano">@evento.Ano</span>
+            </button>
+        }
+    </div>
+
+    <div class="historia-card" id="historiaCard">
+        <div class="historia-card-imagem"></div>
+        <div class="historia-card-texto">
+            <span class="historia-card-ano">@Model[2].Ano</span>
+            <h3>@Model[2].Titulo</h3>
+            <p>@Model[2].Descricao</p>
+        </div>
+    </div>
+
+    <h2 class="comidas-titulo">COMIDAS TÍPICAS</h2>
+    <div class="content-block">
+        <p>
+            A culinária chilena é marcada por pratos como a cazuela, o pastel de choclo e as
+            empanadas de pino, além de doces tradicionais como o mote con huesillo.
+        </p>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var eventos = @Html.Raw(Json.Serialize(Model));
+            var pontos = document.querySelectorAll('.timeline-ponto');
+            var card = document.getElementById('historiaCard');
+
+            pontos.forEach(function (ponto) {
+                ponto.addEventListener('click', function () {
+                    var ano = ponto.getAttribute('data-ano');
+                    var evento = eventos.find(function (e) { return e.Ano === ano; });
+                    if (!evento) return;
+
+                    card.querySelector('.historia-card-ano').textContent = evento.Ano;
+                    card.querySelector('h3').textContent = evento.Titulo;
+                    card.querySelector('p').textContent = evento.Descricao;
+
+                    pontos.forEach(function (p) { p.classList.remove('ativo'); });
+                    ponto.classList.add('ativo');
+                });
+            });
+        });
+    </script>
+}

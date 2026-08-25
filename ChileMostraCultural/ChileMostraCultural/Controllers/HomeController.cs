@@ -1,32 +1,38 @@
-using System.Diagnostics;
-using ChileMostraCultural.Models;
 using Microsoft.AspNetCore.Mvc;
+using ChileMostraCultural.Models;
 
 namespace ChileMostraCultural.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
         public IActionResult Index()
         {
-            return View();
+            var destinos = new List<Destino>
+            {
+                new Destino { Nome = "Torres del Paine", Regiao = "Patagônia Chilena" },
+                new Destino { Nome = "Deserto do Atacama", Regiao = "Norte Grande" },
+                new Destino { Nome = "Ilha de Páscoa", Regiao = "Valparaíso" },
+                new Destino { Nome = "Santiago", Regiao = "Região Metropolitana" },
+                new Destino { Nome = "Valparaíso", Regiao = "Litoral Central" },
+                new Destino { Nome = "Vulcão Villarrica", Regiao = "Araucanía" }
+            };
+
+            return View(destinos);
         }
 
-        public IActionResult Privacy()
+        public IActionResult SobreChile()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult PontosTuristicos()
+        {
+            return View();
+        }
+
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
     }
 }

@@ -1,0 +1,58 @@
+@model LoginViewModel
+@{
+    ViewData["Title"] = "Entrar";
+    Layout = "_Layout";
+}
+
+<div class="auth-split">
+    <div class="auth-image auth-image--login">
+        <div class="auth-image-overlay">
+            <h1>SUA PRÓXIMA AVENTURA COMEÇA AQUI!</h1>
+            <p>Conheça as maravilhas do Chile</p>
+        </div>
+    </div>
+
+    <div class="auth-form-side">
+        <div class="auth-form-wrap">
+            <h2>Entrar</h2>
+            <p class="auth-subtitle">Bem-vindo de volta! Faça login na sua conta.</p>
+
+            @if (TempData["Mensagem"] != null)
+            {
+                <div class="alert-success">@TempData["Mensagem"]</div>
+            }
+
+            <form asp-controller="Account" asp-action="Login" method="post" novalidate>
+                <div asp-validation-summary="ModelOnly" class="validation-summary"></div>
+
+                <div class="form-group">
+                    <label asp-for="Email">E-mail</label>
+                    <input asp-for="Email" class="form-control" placeholder="seu@email.com" autocomplete="email" />
+                    <span asp-validation-for="Email" class="field-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Senha">Senha</label>
+                    <div class="input-password">
+                        <input asp-for="Senha" type="password" class="form-control" placeholder="Sua senha" autocomplete="current-password" id="senhaInput" />
+                        <button type="button" class="toggle-password" data-target="senhaInput">👁</button>
+                    </div>
+                    <span asp-validation-for="Senha" class="field-error"></span>
+                    <a href="#" class="forgot-link">Esqueci minha senha</a>
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-block">Entrar</button>
+
+                <p class="auth-switch">
+                    Ainda não tem conta? <a asp-controller="Account" asp-action="Register">Cadastre-se</a>
+                </p>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
