@@ -1,114 +1,112 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\",
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\home\\pontosturisticos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\home\\pontosturisticos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\home\\sobrechile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\home\\sobrechile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\cultura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\cultura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\historia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\historia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\galeria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\galeria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\conteudomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\home\\pontosturisticos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\home\\pontosturisticos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\home\\sobrechile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\home\\sobrechile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\cultura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\cultura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\historia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\historia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\galeria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\galeria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\models\\conteudomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\models\\conteudomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\historiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\historiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\controllers\\historiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\galeriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\galeriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\controllers\\galeriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\culturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\teste\\chilemostracultural\\chilemostracultural\\chilemostracultural\\controllers\\culturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\controllers\\culturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|c:\\users\\3mtec\\desktop\\chile\\chilemostracultural\\chilemostracultural\\chilemostracultural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71D56704-1553-40BF-ABB8-CC32180EB39E}|ChileMostraCultural\\ChileMostraCultural.csproj|solutionrelative:chilemostracultural\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,172 +116,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Cultura\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Cultura\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Cultura\\Index.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Cultura\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:50:19.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SobreChile.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\SobreChile.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Home\\SobreChile.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\SobreChile.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Home\\SobreChile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:38:14.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PontosTuristicos.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\PontosTuristicos.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Home\\PontosTuristicos.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\PontosTuristicos.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Home\\PontosTuristicos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:38:08.291Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ChileMostraCultural\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJwCAAAAAAAAAAAuwAUDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-25T11:52:28.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ChileMostraCultural\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAALoCAAAAAAAAAAAuwAUDAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-25T11:52:28.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Historia\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Historia\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Historia\\Index.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Historia\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwD4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:50:26.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Galeria\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Galeria\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Galeria\\Index.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Galeria\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:50:23.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "ChileMostraCultural\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-25T11:50:13.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:50:05.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ChileMostraCultural\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:38:22.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T11:38:22.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "ChileMostraCultural\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\wwwroot\\js\\site.js",
               "RelativeToolTip": "ChileMostraCultural\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-08-25T11:53:31.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T11:53:31.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "ChileMostraCultural\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T11:49:09.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T11:49:09.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:38:24.53Z"
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ChileMostraCultural\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T11:37:18.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ChileMostraCultural\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T11:37:14.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ChileMostraCultural\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwEEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-25T11:35:33.429Z",
               "EditorCaption": ""
@@ -292,59 +220,154 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Historia\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Historia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Historia\\Index.cshtml",
+              "RelativeToolTip": "ChileMostraCultural\\Views\\Historia\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T11:50:26.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\appsettings.json",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\appsettings.json",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\appsettings.json",
+              "RelativeToolTip": "ChileMostraCultural\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-25T11:30:16.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ChileMostraCultural\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T11:50:05.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Galeria\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Galeria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Galeria\\Index.cshtml",
+              "RelativeToolTip": "ChileMostraCultural\\Views\\Galeria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T11:50:23.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PontosTuristicos.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\PontosTuristicos.cshtml",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Home\\PontosTuristicos.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\PontosTuristicos.cshtml",
+              "RelativeToolTip": "ChileMostraCultural\\Views\\Home\\PontosTuristicos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T11:38:08.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SobreChile.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\SobreChile.cshtml",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Home\\SobreChile.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\SobreChile.cshtml",
+              "RelativeToolTip": "ChileMostraCultural\\Views\\Home\\SobreChile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T11:38:14.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Cultura\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Cultura\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Cultura\\Index.cshtml",
+              "RelativeToolTip": "ChileMostraCultural\\Views\\Cultura\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T11:50:19.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ChileMostraCultural\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-25T11:38:24.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ChileMostraCultural\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-25T11:37:29.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T11:37:29.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Program.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Program.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Program.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Program.cs",
               "RelativeToolTip": "ChileMostraCultural\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T11:35:04.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-25T11:35:04.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewImports.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-25T11:38:25.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewStart.cshtml",
               "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewStart.cshtml",
-              "RelativeToolTip": "ChileMostraCultural\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-25T11:38:26.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\Error.cshtml",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Home\\Error.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Home\\Error.cshtml",
               "RelativeToolTip": "ChileMostraCultural\\Views\\Home\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -352,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "ChileMostraCultural\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -364,35 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "ChileMostraCultural\\Models\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T11:37:18.854Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "ChileMostraCultural\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T11:37:14.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "ConteudoModels.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\ConteudoModels.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\ConteudoModels.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Models\\ConteudoModels.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\ConteudoModels.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Models\\ConteudoModels.cs",
               "RelativeToolTip": "ChileMostraCultural\\Models\\ConteudoModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -400,11 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ChileMostraCultural\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,11 +411,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "HistoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\HistoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\HistoriaController.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Controllers\\HistoriaController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\HistoriaController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\HistoriaController.cs",
               "RelativeToolTip": "ChileMostraCultural\\Controllers\\HistoriaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +423,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "GaleriaController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\GaleriaController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\GaleriaController.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Controllers\\GaleriaController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\GaleriaController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\GaleriaController.cs",
               "RelativeToolTip": "ChileMostraCultural\\Controllers\\GaleriaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,27 +435,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "CulturaController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\CulturaController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\CulturaController.cs",
               "RelativeDocumentMoniker": "ChileMostraCultural\\Controllers\\CulturaController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\CulturaController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\teste\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\Controllers\\CulturaController.cs",
               "RelativeToolTip": "ChileMostraCultural\\Controllers\\CulturaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-25T11:36:27.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\appsettings.json",
-              "RelativeDocumentMoniker": "ChileMostraCultural\\appsettings.json",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Chile\\ChileMostraCultural\\ChileMostraCultural\\ChileMostraCultural\\appsettings.json",
-              "RelativeToolTip": "ChileMostraCultural\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-25T11:30:16.484Z"
             }
           ]
         }

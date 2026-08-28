@@ -53,6 +53,12 @@
                     <span asp-validation-for="ConfirmarSenha" class="field-error"></span>
                 </div>
 
+                <div class="form-group">
+                    <label asp-for="DataNascimento">Data de nascimento*</label>
+                    <input asp-for="DataNascimento" type="date" class="form-control" />
+                    <span asp-validation-for="DataNascimento" class="field-error"></span>
+                </div>
+
                 <button type="submit" class="btn btn-primary btn-block">Criar conta</button>
 
                 <p class="auth-switch">
