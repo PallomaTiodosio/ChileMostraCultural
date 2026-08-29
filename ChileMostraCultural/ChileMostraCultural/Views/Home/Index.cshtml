@@ -1,9 +1,8 @@
-@model List<Destino>
 @{
     ViewData["Title"] = "Início";
 }
 
-<section class="hero">
+<section class="hero" style="background-image:linear-gradient(180deg, rgba(10,20,40,0.55) 0%, rgba(10,20,40,0.75) 100%), url('/images/destinos/hero-inicio.png'); background-size:cover; background-position:center;">
     <div class="hero-overlay">
         <p class="hero-eyebrow">DESCUBRA O</p>
         <h1 class="hero-title">CHILE</h1>
@@ -15,53 +14,35 @@
     <div class="feature-card">
         <span class="feature-icon">🏔️</span>
         <div>
-            <strong>Cultura</strong>
-            <p>Explore tradições e costumes</p>
+            <strong>Natureza</strong>
+            <p>Paisagens únicas de norte a sul</p>
         </div>
     </div>
     <div class="feature-card">
         <span class="feature-icon">📖</span>
         <div>
-            <strong>Cultura</strong>
-            <p>Explore tradições e costumes</p>
+            <strong>História</strong>
+            <p>Séculos de tradição e cultura</p>
         </div>
     </div>
     <div class="feature-card">
         <span class="feature-icon">🎒</span>
         <div>
-            <strong>Cultura</strong>
-            <p>Explore tradições e costumes</p>
+            <strong>Aventura</strong>
+            <p>Trilhas, vulcões e glaciares</p>
         </div>
     </div>
     <div class="feature-card">
         <span class="feature-icon">🍷</span>
         <div>
-            <strong>Cultura</strong>
-            <p>Explore tradições e costumes</p>
+            <strong>Gastronomia</strong>
+            <p>Sabores e vinhos premiados</p>
         </div>
     </div>
 </section>
 
-<section class="destinos">
-    <h2>DESTINOS</h2>
-    <p class="section-subtitle">Lugares incríveis para conhecer no Chile.</p>
-
-    <div class="destinos-grid">
-        @foreach (var destino in Model)
-        {
-            <div class="destino-card">
-                <div class="destino-placeholder"></div>
-                <div class="destino-info">
-                    <strong>@destino.Nome</strong>
-                    <span>@destino.Regiao</span>
-                </div>
-            </div>
-        }
-    </div>
-</section>
-
 <section class="destaque">
-    <div class="destaque-imagem"></div>
+    <div class="destaque-imagem" style="background-image:url('/images/destinos/torres-del-paine.jpg'); background-size:cover; background-position:center;"></div>
     <div class="destaque-texto">
         <h3>Torres del Paine</h3>
         <p class="destaque-local">Patagônia Chilena</p>
@@ -69,11 +50,12 @@
             Um dos parques nacionais mais espetaculares da América do Sul, com montanhas
             de granito, geleiras e lagos de tons intensos que encantam viajantes do mundo todo.
         </p>
+        <a class="btn btn-primary" asp-controller="Home" asp-action="PontosTuristicos">Ver todos os destinos</a>
     </div>
 </section>
 
 <section class="territorio">
-    <div class="territorio-mapa"></div>
+    <div class="territorio-mapa" style="background-image:url('/images/destinos/territorio-mapa.jpg'); background-size:cover; background-position:center;"></div>
     <div class="territorio-texto">
         <h3>TERRITÓRIO DO <span class="destaque-chile">CHILE</span></h3>
         <p>

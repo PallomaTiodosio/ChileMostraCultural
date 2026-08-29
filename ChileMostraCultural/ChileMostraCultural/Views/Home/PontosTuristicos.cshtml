@@ -1,15 +1,59 @@
+@model List<Destino>
 @{
     ViewData["Title"] = "Pontos Turísticos";
 }
 
-<section class="page-header">
-    <h1>Pontos Turísticos</h1>
-    <p>Os lugares que você não pode deixar de conhecer.</p>
+<section class="hero" style="background-image:linear-gradient(180deg, rgba(10,20,40,0.45) 0%, rgba(10,20,40,0.8) 100%), url('/images/destinos/hero-pontos-turisticos.jpg'); background-size:cover; background-position:center;">
+    <div class="hero-overlay">
+        <h1 class="hero-title hero-title--menor">DESTINOS NO CHILE</h1>
+        <p class="hero-subtitle">Para se apaixonar por cada paisagem.</p>
+    </div>
 </section>
 
-<section class="content-block">
-    <p>
-        Torres del Paine, Deserto do Atacama, Ilha de Páscoa, Valparaíso e Santiago são
-        apenas alguns dos destinos imperdíveis do Chile.
-    </p>
+<section class="destinos">
+    <h2>DESTINOS</h2>
+    <p class="section-subtitle">Lugares incríveis para conhecer no Chile.</p>
+
+    <div class="destinos-grid">
+        @foreach (var destino in Model)
+        {
+            <div class="destino-card">
+                <div class="destino-placeholder" style="background-image:url('@destino.ImagemUrl'); background-size:cover; background-position:center;"></div>
+                <div class="destino-info">
+                    <strong>@destino.Nome</strong>
+                    <span>@destino.Regiao</span>
+                </div>
+            </div>
+        }
+    </div>
+</section>
+
+<section class="destaque">
+    <div class="destaque-imagem" style="background-image:url('/images/destinos/torres-del-paine.jpg'); background-size:cover; background-position:center;"></div>
+    <div class="destaque-texto">
+        <h3>Torres del Paine</h3>
+        <p class="destaque-local">Patagônia Chilena</p>
+        <p>
+            Localizado no extremo sul do país, o Parque Nacional Torres del Paine reúne
+            montanhas de granito, geleiras milenares e lagos de tons turquesa, sendo um
+            dos destinos mais procurados por trilheiros do mundo todo.
+        </p>
+    </div>
+</section>
+
+<section class="content-block turismo-chile">
+    <h2>TURISMO NO <span class="destaque-chile">CHILE</span></h2>
+    <div class="turismo-grid">
+        <p>
+            O Chile oferece experiências para todos os perfis de viajante: do deserto mais
+            árido do mundo, no Atacama, às trilhas geladas da Patagônia, passando por
+            cidades históricas como Valparaíso e centros urbanos modernos como Santiago.
+        </p>
+        <p>
+            Seja para relaxar em vinícolas, explorar vulcões ou conhecer os moais da Ilha
+            de Páscoa, o país reúne uma diversidade de paisagens raramente encontrada em
+            um único destino.
+        </p>
+        <div class="turismo-imagem" style="background-image:url('/images/destinos/turismo-chile.jpg'); background-size:cover; background-position:center;"></div>
+    </div>
 </section>

@@ -368,7 +368,9 @@ img {
 }
 
 .auth-image {
-    background: linear-gradient(180deg, rgba(10,20,40,0.15), rgba(10,20,40,0.75)), linear-gradient(135deg, #4a6b8a, #16294d 70%);
+    background: linear-gradient(180deg, rgba(10,20,40,0.15), rgba(10,20,40,0.75)), url('/images/auth/login-bg.jpg');
+    background-size: cover;
+    background-position: center;
     display: flex;
     align-items: flex-end;
     padding: 3em;
@@ -377,7 +379,9 @@ img {
 }
 
 .auth-image--register {
-    background: linear-gradient(180deg, rgba(30,20,20,0.1), rgba(20,15,15,0.8)), linear-gradient(135deg, #7a5a4a, #2a1c1c 70%);
+    background: linear-gradient(180deg, rgba(10,20,40,0.1), rgba(10,20,40,0.8)), url('/images/auth/cadastro-bg.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 .auth-image-overlay h1 {
@@ -665,8 +669,10 @@ img {
 }
 
 .historia-card-imagem {
-    background: linear-gradient(135deg, #d9c9a3, #a9895a);
-    min-height: 160px;
+    background-color: #d9c9a3;
+    background-size: cover;
+    background-position: center;
+    min-height: 220px;
 }
 
 .historia-card-texto {
@@ -676,6 +682,65 @@ img {
 .historia-card-ano {
     color: var(--color-red);
     font-weight: 700;
+}
+
+.roupas-titulo {
+    color: var(--color-red);
+    font-size: 1.4rem;
+    margin-top: 0.5em;
+}
+
+.roupas-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+    margin-bottom: 2.5em;
+}
+
+.traje-card {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    padding: 0;
+    cursor: pointer;
+    text-align: left;
+    font-family: inherit;
+    transition: transform 0.15s ease;
+}
+
+    .traje-card:hover {
+        transform: translateY(-2px);
+    }
+
+.traje-imagem {
+    height: 220px;
+    background-size: cover;
+    background-position: center top;
+    background-color: #ddd;
+}
+
+.traje-nome {
+    display: block;
+    padding: 0.8em 1em;
+    font-weight: 700;
+    color: var(--color-text);
+}
+
+.traje-descricao {
+    max-height: 0;
+    overflow: hidden;
+    margin: 0;
+    padding: 0 1em;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    transition: max-height 0.3s ease, padding 0.3s ease;
+}
+
+.traje-card.aberto .traje-descricao {
+    max-height: 260px;
+    padding: 0 1em 1em;
 }
 
 .comidas-titulo {
@@ -704,6 +769,96 @@ img {
     color: var(--color-text);
 }
 
+
+/* Cultura */
+
+.cultura-secoes {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3em 1.5em;
+    display: flex;
+    flex-direction: column;
+    gap: 2.5em;
+}
+
+.cultura-item {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 2em;
+    align-items: center;
+}
+
+.cultura-item--inverso {
+    direction: rtl;
+}
+
+    .cultura-item--inverso > * {
+        direction: ltr;
+    }
+
+.cultura-imagem {
+    aspect-ratio: 4 / 3;
+    border-radius: var(--radius);
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
+    box-shadow: var(--shadow);
+}
+
+.cultura-texto h3 {
+    color: var(--color-red);
+    font-size: 1.2rem;
+}
+
+.cultura-diversidade {
+    background: var(--color-red);
+    color: #fff;
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 2em;
+    align-items: center;
+    padding: 3em 1.5em;
+}
+
+.cultura-diversidade-texto h2 {
+    margin-bottom: 0.6em;
+}
+
+.cultura-diversidade-imagem {
+    aspect-ratio: 4 / 3;
+    border-radius: var(--radius);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255,255,255,0.2);
+}
+
+/* Turismo no Chile (página Pontos Turísticos) */
+
+.turismo-chile {
+    max-width: 1100px;
+}
+
+    .turismo-chile h2 {
+        color: var(--color-red);
+        margin-bottom: 0.8em;
+    }
+
+.turismo-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+    align-items: center;
+}
+
+.turismo-imagem {
+    aspect-ratio: 4 / 3;
+    border-radius: var(--radius);
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
+    box-shadow: var(--shadow);
+}
+
 /* Footer */
 
 .site-footer {
@@ -713,6 +868,7 @@ img {
     padding: 1.5em;
     font-size: 0.85rem;
 }
+
 
 /* Responsivo */
 
@@ -740,6 +896,22 @@ img {
     .galeria-grid {
         grid-template-columns: repeat(2, 1fr);
     }
+
+    .roupas-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .cultura-item, .cultura-item--inverso {
+        grid-template-columns: 1fr;
+        direction: ltr;
+    }
+
+    .cultura-diversidade {
+        grid-template-columns: 1fr;
+    }
+
+    .turismo-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 @media (max-width: 640px) {
@@ -763,11 +935,11 @@ img {
         flex-wrap: wrap;
     }
 
-    .features, .destinos-grid, .galeria-grid {
-        grid-template-columns: 1fr;
+    .features, .destinos-grid, .galeria-grid, .roupas-grid {
+
+        .hero-title {
+            font-size: 2.6rem;
+        }
     }
 
-    .hero-title {
-        font-size: 2.6rem;
-    }
-}
+

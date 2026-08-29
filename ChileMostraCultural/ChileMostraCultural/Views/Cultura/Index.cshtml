@@ -2,19 +2,100 @@
     ViewData["Title"] = "Cultura do Chile";
 }
 
-<section class="hero hero--cultura">
+<section class="hero hero--cultura" style="background-image:linear-gradient(90deg, rgba(10,20,40,0.85) 20%, rgba(10,20,40,0.35) 100%), url('/images/cultura/hero-cultura.jpg'); background-size:cover; background-position:center;">
     <div class="hero-overlay hero-overlay--left">
         <h1 class="hero-title hero-title--menor">CULTURA DO CHILE</h1>
-        <p class="hero-subtitle">Costumes, música, dança e tradições que contam a história do povo chileno.</p>
-        <a class="btn btn-primary" asp-controller="Historia" asp-action="Index">Conheça mais</a>
+        <p class="hero-subtitle">Conheça a cultura do Chile desde danças até comidas típicas.</p>
     </div>
 </section>
 
-<section class="content-block">
-    <h2>Tradições vivas</h2>
-    <p>
-        A cultura chilena mistura influências indígenas, como os povos Mapuche, com heranças
-        espanholas e europeias. Festas populares, a cueca (dança nacional) e o folclore regional
-        são parte fundamental da identidade do país.
-    </p>
+<section class="cultura-secoes">
+    <div class="cultura-item">
+        <div class="cultura-imagem" style="background-image:url('/images/cultura/comidas-tipicas.jpg')"></div>
+        <div class="cultura-texto">
+            <h3>COMIDAS TÍPICAS</h3>
+            <p>
+                A culinária chilena é repleta de sabores marcantes, destacando-se o uso de
+                ingredientes como o abacate e o milho. Pratos tradicionais como a cazuela e as
+                empanadas de pino misturam carne, cebola, azeitona e ovo cozido.
+            </p>
+            <p>
+                O famoso pastel de choclo, um escondidinho feito com massa doce de milho e
+                recheio na base, também é mundialmente famoso pela excelência e tradição de
+                seus vinhedos.
+            </p>
+        </div>
+    </div>
+
+    <div class="cultura-item cultura-item--inverso">
+        <div class="cultura-imagem" style="background-image:url('/images/cultura/danca-tradicional.jpg')"></div>
+        <div class="cultura-texto">
+            <h3>DANÇAS TRADICIONAIS</h3>
+            <p>
+                A cueca é a dança nacional do Chile e representa o namoro e a conquista entre
+                um casal. Durante a dança, os participantes movimentam lenços em uma coreografia
+                simbólica de aproximação entre o homem e a mulher.
+            </p>
+            <p>
+                Cada muito tradicional nas festividades, celebrações nacionais e comemorações
+                da independência do país. Além da dança, o traje e os usos típicos chilenos
+                também ajudam a preservar a cultura e as tradições do país.
+            </p>
+        </div>
+    </div>
+
+    <div class="cultura-item">
+        <div class="cultura-imagem" style="background-image:url('/images/cultura/musica-tradicional.jpg')"></div>
+        <div class="cultura-texto">
+            <h3>MÚSICA CHILENA</h3>
+            <p>
+                A música chilena é bastante diversificada, misturando-se à música folclórica com
+                fortes raízes nas tradições andinas, o rock chileno moderno e a Nueva Canción
+                Chilena. Surgida no século XX, a Nueva Canción foi um movimento musical marcado
+                pela valorização da cultura popular e pela consciência social.
+            </p>
+            <p>
+                Tornando-se uma parte importante da identidade cultural do país.
+            </p>
+        </div>
+    </div>
+
+    <div class="cultura-item cultura-item--inverso">
+        <div class="cultura-imagem" style="background-image:url('/images/cultura/arte-literatura.jpg')"></div>
+        <div class="cultura-texto">
+            <h3>ARTE E LITERATURA</h3>
+            <p>
+                A literatura do Chile é marcada pelos nomes de Gabriela Mistral, primeira escritora
+                latino-americana a receber o Prêmio Nobel de Literatura, e Pablo Neruda, também
+                vencedor do Nobel. Suas obras abordam temas como natureza, amor, resistência e
+                questões sociais e é realidade latino-americana.
+            </p>
+            <p>
+                A literatura chilena também apresenta importantes escritores de prosa, como Isabel
+                Allende, conhecida por romances que misturam história, política, relações
+                pessoais e elementos de realismo mágico.
+            </p>
+            <p>
+                A arte chilena é marcada pela mistura de influências indígenas, europeias e latino-
+                americanas. Na pintura e nas artes visuais, destacam-se temas relacionados à
+                paisagem, à cultura popular, à história e à identidade do país. O Chile possui
+                uma forte tradição de arte urbana, especialmente por meio de seus murais e grafites.
+            </p>
+        </div>
+    </div>
+</section>
+
+<section class="cultura-diversidade">
+    <div class="cultura-diversidade-texto">
+        <h2>DIVERSIDADE REGIONAL</h2>
+        <p>
+            Devido à sua extensão territorial, a cultura chilena varia drasticamente pelo país:
+            ao norte é fortemente influenciada pelas tradições andinas, com destaque para a
+            La Tirana e a Diablada e a Fiesta de la Tirana. A Ilha de Páscoa (Rapa Nui) possui
+            uma cultura polinésia única, envolvendo no festival Tapati. Já ao sul do país, há
+            forte presença de povos originários e, posteriormente, da colonização alemã,
+            presente na arquitetura e na culinária da região dos lagos.
+        </p>
+    </div>
+    <div class="cultura-diversidade-imagem" style="background-image:url('/images/cultura/diversidade-regional.jpg')"></div>
 </section>

@@ -7,27 +7,22 @@ namespace ChileMostraCultural.Controllers
     {
         public IActionResult Index()
         {
-            var destinos = new List<Destino>
-            {
-                new Destino { Nome = "Torres del Paine", Regiao = "Patagônia Chilena" },
-                new Destino { Nome = "Deserto do Atacama", Regiao = "Norte Grande" },
-                new Destino { Nome = "Ilha de Páscoa", Regiao = "Valparaíso" },
-                new Destino { Nome = "Santiago", Regiao = "Região Metropolitana" },
-                new Destino { Nome = "Valparaíso", Regiao = "Litoral Central" },
-                new Destino { Nome = "Vulcão Villarrica", Regiao = "Araucanía" }
-            };
-
-            return View(destinos);
-        }
-
-        public IActionResult SobreChile()
-        {
             return View();
         }
 
         public IActionResult PontosTuristicos()
         {
-            return View();
+            var destinos = new List<Destino>
+            {
+                new Destino { Nome = "Ilha de Páscoa", Regiao = "Valparaíso", ImagemUrl = "/images/destinos/ilha-de-pascoa.jpg" },
+                new Destino { Nome = "Deserto do Atacama", Regiao = "Norte Grande", ImagemUrl = "/images/destinos/deserto-atacama.png" },
+                new Destino { Nome = "Santiago", Regiao = "Região Metropolitana", ImagemUrl = "/images/destinos/santiago-card.jpg" },
+                new Destino { Nome = "Valparaíso", Regiao = "Litoral Central", ImagemUrl = "/images/destinos/valparaiso.jpg" },
+                new Destino { Nome = "Valle Nevado", Regiao = "Região Metropolitana", ImagemUrl = "/images/destinos/valle-nevado.jpg" },
+                new Destino { Nome = "Torres del Paine", Regiao = "Patagônia Chilena", ImagemUrl = "/images/destinos/torres-del-paine.jpg" }
+            };
+
+            return View(destinos);
         }
 
         public IActionResult Error()

@@ -1,6 +1,8 @@
 @model List<EventoHistorico>
 @{
     ViewData["Title"] = "História do Chile";
+    var trajes = ViewBag.Trajes as List<TrajeTradicional>;
+    var eventoInicial = Model[2]; // 1818 - Independência do Chile
 }
 
 <section class="historia-page">
@@ -12,7 +14,11 @@
     <div class="timeline" id="timeline">
         @foreach (var evento in Model)
         {
-            <button class="timeline-ponto" data-ano="@evento.Ano">
+            <button class="timeline-ponto @(evento == eventoInicial ? "ativo" : "")"
+                    data-ano="@evento.Ano"
+                    data-titulo="@evento.Titulo"
+                    data-descricao="@evento.Descricao"
+                    data-imagem="@evento.ImagemUrl">
                 <span class="timeline-icone"></span>
                 <span class="timeline-ano">@evento.Ano</span>
             </button>
@@ -20,12 +26,29 @@
     </div>
 
     <div class="historia-card" id="historiaCard">
-        <div class="historia-card-imagem"></div>
+        <div class="historia-card-imagem" id="historiaCardImagem" style="background-image:url('@eventoInicial.ImagemUrl')"></div>
         <div class="historia-card-texto">
-            <span class="historia-card-ano">@Model[2].Ano</span>
-            <h3>@Model[2].Titulo</h3>
-            <p>@Model[2].Descricao</p>
+            <span class="historia-card-ano" id="historiaCardAno">@eventoInicial.Ano</span>
+            <h3 id="historiaCardTitulo">@eventoInicial.Titulo</h3>
+            <p id="historiaCardDescricao">@eventoInicial.Descricao</p>
         </div>
+    </div>
+
+    <h2 class="roupas-titulo">ROUPAS TRADICIONAIS</h2>
+    <p class="section-subtitle">Trajes que contam histórias e representam a cultura chilena.</p>
+
+    <div class="roupas-grid">
+        @if (trajes != null)
+        {
+            @foreach (var traje in trajes)
+            {
+                <div class="traje-card" tabindex="0" role="button" data-traje="@traje.Nome">
+                    <div class="traje-imagem" style="background-image:url('@traje.ImagemUrl')"></div>
+                    <span class="traje-nome">@traje.Nome</span>
+                    <p class="traje-descricao">@traje.Descricao</p>
+                </div>
+            }
+        }
     </div>
 
     <h2 class="comidas-titulo">COMIDAS TÍPICAS</h2>
@@ -40,22 +63,37 @@
 @section Scripts {
     <script>
         document.addEventListener('DOMContentLoaded', function () {
-            var eventos = @Html.Raw(Json.Serialize(Model));
+            // Linha do tempo: clique na bolinha troca o card acima
             var pontos = document.querySelectorAll('.timeline-ponto');
-            var card = document.getElementById('historiaCard');
+
+            var imgEl = document.getElementById('historiaCardImagem');
+            var anoEl = document.getElementById('historiaCardAno');
+            var tituloEl = document.getElementById('historiaCardTitulo');
+            var descEl = document.getElementById('historiaCardDescricao');
 
             pontos.forEach(function (ponto) {
                 ponto.addEventListener('click', function () {
-                    var ano = ponto.getAttribute('data-ano');
-                    var evento = eventos.find(function (e) { return e.Ano === ano; });
-                    if (!evento) return;
-
-                    card.querySelector('.historia-card-ano').textContent = evento.Ano;
-                    card.querySelector('h3').textContent = evento.Titulo;
-                    card.querySelector('p').textContent = evento.Descricao;
+                    imgEl.style.backgroundImage = "url('" + ponto.dataset.imagem + "')";
+                    anoEl.textContent = ponto.dataset.ano;
+                    tituloEl.textContent = ponto.dataset.titulo;
+                    descEl.textContent = ponto.dataset.descricao;
 
                     pontos.forEach(function (p) { p.classList.remove('ativo'); });
                     ponto.classList.add('ativo');
+                });
+            });
+
+            // Roupas tradicionais: clique no card revela o texto explicativo
+            var trajeCards = document.querySelectorAll('.traje-card');
+            trajeCards.forEach(function (card) {
+                card.addEventListener('click', function () {
+                    card.classList.toggle('aberto');
+                });
+                card.addEventListener('keydown', function (e) {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        card.classList.toggle('aberto');
+                    }
                 });
             });
         });
